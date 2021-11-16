@@ -1,0 +1,95 @@
+{
+    "item" : [
+        {
+            "SlNo" : 1,
+            "ItemName" : "Rice",
+            "Quantity" :"10",
+            "Unit" : "kg",
+            "Department" : "Rice and Rice products",
+            "Notes" : "Matta"
+                           
+        },
+        {
+            "SlNo" : 2,
+            "ItemName" : "Rice",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Rice and Rice products",
+            "Notes" : "Basmati"
+                           
+        },
+        {
+            "SlNo" : 3,
+            "ItemName" : "Cashewnut",
+            "Quantity" :500,
+            "Unit" : "Gm",
+            "Department" : "Dry fruits and nuts",
+            "Notes" : "Roasted"
+                                
+        },
+        {
+            "SlNo" : 4,
+            "ItemName" : "Ghee",
+            "Quantity" :500,
+            "Unit" : "ml",
+            "Department" : "Milk Products",
+            "Notes" : "Milma"
+                                
+        },
+        {
+            "SlNo" : 5,
+            "ItemName" : "Paneer",
+            "Quantity" :1,
+            "Unit" : "kg",
+            "Department" : "Milk Products",
+            "Notes" : "Milma"
+                                
+        },
+        {
+            "SlNo" : 6,
+            "ItemName" : "Tomato",
+            "Quantity" :1,
+            "Unit" : "kg",
+            "Department" : "Veggies",
+            "Notes" : "Fresh"
+                                
+        },
+        {
+            "SlNo" : 7,
+            "ItemName" : "Wheat flour",
+            "Quantity" :3,
+            "Unit" : "kg",
+            "Department" : "Grain",
+            "Notes" : "Aasirvad"
+                                
+        },
+        {
+            "SlNo" : 8,
+            "ItemName" : "Orange",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Fruit",
+            "Notes" : "Fresh"
+                                
+        },
+        {
+            "SlNo" : 9,
+            "ItemName" : "Sanitizer",
+            "Quantity" :500,
+            "Unit" : "ml",
+            "Department" : "Stationary",
+            "Notes" : "Himalaya"
+                                
+        },
+        {
+            "SlNo" : 10,
+            "ItemName" : "Tea",
+            "Quantity" :1,
+            "Unit" : "Pack",
+            "Department" : "Tea powder",
+            "Notes" : "AVT"
+                                
+        }
+    ]
+
+}
